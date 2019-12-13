@@ -47,3 +47,13 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 - GG, so far.
 
 [Android Dice Roller](https://github.com/TheSherlockHomie/Android-Dice-Roller "A simple Android Dice Roller App")
+
+------------
+
+### Day 3: December 13, 2019, Friday
+
+**What I learned:** 
+- Learned about the various Layouts in Android, like linearLayout, constraintLayout etc
+
+**Thoughts:**
+- Had to maintain (and repair) my PC, so could not do much. High hopes for tomorrow.
