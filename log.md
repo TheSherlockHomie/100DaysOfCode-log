@@ -57,3 +57,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts:**
 - Had to maintain (and repair) my PC, so could not do much. High hopes for tomorrow.
+
+------------
+
+### Day 4: December 14, 2019, Saturday
+
+**Progress** 
+- Learned more about constraint layout
+- Learned about Data binding
+-Started a new project!
+
+**Thoughts:**
+- I can see how committing to doing something everyday can be a challenge. Hopefully the habit-making part of my brain will soon fire up.
