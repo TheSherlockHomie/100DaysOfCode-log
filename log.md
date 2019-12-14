@@ -65,7 +65,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Progress** 
 - Learned more about constraint layout
 - Learned about Data binding
--Started a new project!
+- Also learned about Kotlin's Data class
+- Started a new project!
 
 **Thoughts:**
 - I can see how committing to doing something everyday can be a challenge. Hopefully the habit-making part of my brain will soon fire up.
