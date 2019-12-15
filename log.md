@@ -66,7 +66,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 - Learned more about constraint layout
 - Learned about Data binding
 - Also learned about Kotlin's Data class
-- Started a new project!
+- Started a new project to learn constraintLayout: color My Views
 
 **Thoughts:**
 - I can see how committing to doing something everyday can be a challenge. Hopefully the habit-making part of my brain will soon fire up.
+
+------------
+
+### Day 5: December 15, 2019, Sunday
+
+**Today's Progress**: 
+- Completed the project colorMyViews!
+
+**What I learned:** 
+- Constraints, ratios, chaining and baselines in constraintLayout
+- Fragments
+- Navigation 
+
+**Thoughts:**
+- Programming is fun!
+
+[Color My Views](https://github.com/TheSherlockHomie/Learn-ColorMyViews "Simple app made learning constraintLayout")
