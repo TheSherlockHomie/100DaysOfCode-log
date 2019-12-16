@@ -87,3 +87,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 - Programming is fun!
 
 [Color My Views](https://github.com/TheSherlockHomie/Learn-ColorMyViews "Simple app made learning constraintLayout")
+
+------------
+
+### Day 6: December 16, 2019, Monday
+
+**Today's Progress**: 
+- Started new project, a simple android trivia app!
+
+**What I learned:** 
+- Navigation, and adding navigation graphs
+
+**Thoughts:**
+- Programming requires peace and quiet. Difficult when you don't have any.
