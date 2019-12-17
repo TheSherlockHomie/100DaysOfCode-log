@@ -100,3 +100,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts:**
 - Programming requires peace and quiet. Difficult when you don't have any.
+
+------------
+
+### Day 7: December 17, 2019, Tuesday
+
+**Today's Progress**: 
+- Decided to take a light break, and learn something new for today
+
+**What I learned:** 
+- DISM on windows, imaging systems over the network, slipstreaming drivers
+
+**Thoughts:**
+- Variety keeps you interested
