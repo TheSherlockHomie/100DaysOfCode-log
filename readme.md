@@ -126,4 +126,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 - pyautogui and manipulating the cursor
 
 **Thoughts:**
+<<<<<<< HEAD
 - Had something sudden come up. Required lots of tedious work. openpyxl and pyautogui seved the day!
+>>>>>>> a9d371a6918d0ba543ba68e642440665d03c57ff
