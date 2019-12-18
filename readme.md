@@ -113,3 +113,17 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts:**
 - Variety keeps you interested
+
+------------
+
+### Day 8: December 18, 2019, Wednesday
+
+**Today's Progress**: 
+- Had something sudden come up; learned something else.
+
+**What I learned:** 
+- Using openpyxl and working with spreadsheets in python
+- pyautogui and manipulating the cursor
+
+**Thoughts:**
+- Had something sudden come up. Required lots of clerical work. openpyxl and pyautogui seved the day!
