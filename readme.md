@@ -127,3 +127,14 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts:**
 - Had something sudden come up. Required lots of tedious work. openpyxl and pyautogui seved the day!
+
+------------
+
+### Day 9: December 19, 2019, Thursday
+
+**Today's Progress**: 
+- Continued with Android dev
+
+**What I learned:** 
+- Conditional Navigation
+- Backstack manipulation
