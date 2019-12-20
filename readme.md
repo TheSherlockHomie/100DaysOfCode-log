@@ -138,3 +138,14 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **What I learned:** 
 - Conditional Navigation
 - Backstack manipulation
+
+------------
+
+### Day 10: December 20, 2019, Friday
+
+**Today's Progress**: 
+- Continued with Android dev
+
+**What I learned:** 
+- Adding an UP button
+- Adding a menu!
