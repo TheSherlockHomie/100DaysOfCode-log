@@ -25,14 +25,14 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ## Log
 
-### Day 1: December 11, 2019, Wednesday
+### Day -10: December 11, 2019, Wednesday
 
 - Started learning Android dev using Kotlin
 - Made my first Hello World Android app
 
 ------------
 
-### Day 2: December 12, 2019, Thursday
+### Day -9: December 12, 2019, Thursday
 
 **Today's Progress**: 
 - Completed my first (useful) app, a dice roller!
@@ -50,7 +50,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 3: December 13, 2019, Friday
+### Day -8: December 13, 2019, Friday
 
 **What I learned:** 
 - Learned about the various Layouts in Android, like linearLayout, constraintLayout etc
@@ -60,7 +60,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 4: December 14, 2019, Saturday
+### Day -7: December 14, 2019, Saturday
 
 **Progress** 
 - Learned more about constraint layout
@@ -73,7 +73,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 5: December 15, 2019, Sunday
+### Day -6: December 15, 2019, Sunday
 
 **Today's Progress**: 
 - Completed the project colorMyViews!
@@ -90,7 +90,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 6: December 16, 2019, Monday
+### Day -5: December 16, 2019, Monday
 
 **Today's Progress**: 
 - Started new project, a simple android trivia app!
@@ -103,7 +103,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 7: December 17, 2019, Tuesday
+### Day -4: December 17, 2019, Tuesday
 
 **Today's Progress**: 
 - Decided to take a light break, and learn something new for today
@@ -116,7 +116,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 8: December 18, 2019, Wednesday
+### Day -3: December 18, 2019, Wednesday
 
 **Today's Progress**: 
 - Had something sudden come up; learned something else.
@@ -130,7 +130,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 9: December 19, 2019, Thursday
+### Day -2: December 19, 2019, Thursday
 
 **Today's Progress**: 
 - Continued with Android dev
@@ -141,7 +141,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ------------
 
-### Day 10: December 20, 2019, Friday
+### Day -1: December 20, 2019, Friday
 
 **Today's Progress**: 
 - Continued with Android dev
@@ -149,3 +149,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **What I learned:** 
 - Adding an UP button
 - Adding a menu!
+
+------------
+
+### Day 1: December 27, 2019, Friday
+
+**Today's Progress**: 
+- Completed my seconf project, a trivia app!
+- Completed "app navigation"(ch 3) of Udacity Android dev with Kotlin Course!
+
+**What I learned:** 
+- Navigation basics in android
+- Adding navigations graphs
+- Adding navigation drawer
+- Adding animations to navigation!
+
+**Thoughts:**
+- Left 100 days of code, had to start again. Hoping this goes better than my last attempt
+
+[Android Trivia](https://github.com/TheSherlockHomie/andfun-kotlin-android-trivia/tree/kushagra?files=1 "A simple Android Trivia App")
