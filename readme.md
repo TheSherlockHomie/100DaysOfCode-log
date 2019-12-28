@@ -168,3 +168,19 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 - Left 100 days of code, had to start again. Hoping this goes better than my last attempt
 
 [Android Trivia](https://github.com/TheSherlockHomie/andfun-kotlin-android-trivia/tree/kushagra?files=1 "A simple Android Trivia App")
+
+------------
+
+### Day 2: December 28, 2019, Saturday
+
+**Today's Progress**: 
+- Completed Ch 4 and Ch 5 of Udacity Android dev course! 
+
+**What I learned:** 
+- Activity and fragment lifecycle
+- How powerful Data Binding is
+- MVVM architechure
+- ViewModel, UILayer, LiveData
+
+**Thoughts:**
+- Programmed for 11 hours straight! With a couple of hors before going to sleep too! When the programming bug bites you...it bites you.
