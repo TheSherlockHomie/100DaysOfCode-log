@@ -174,7 +174,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 ### Day 2: December 28, 2019, Saturday
 
 **Today's Progress**: 
-- Completed Ch 4 and Ch 5 of Udacity Android dev course! 
+- Completed Ch 4 and Ch 5 of Udacity Android dev course!
+- Udacity ANdroid dev course is now 50% complete! 
 
 **What I learned:** 
 - Activity and fragment lifecycle
@@ -184,3 +185,20 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts:**
 - Programmed for 11 hours straight! With a couple of hors before going to sleep too! When the programming bug bites you...it bites you.
+
+------------
+
+### Day 3: December 28, 2019, Saturday
+
+**Today's Progress**: 
+- Started ch6, which is Data persistence
+
+**What I learned:** 
+- Basics about SQLite and Room
+- Designing Entities
+- Adding a DAO
+- Basics of Kotlin Coroutines
+
+**Thoughts:**
+- Feel like I am genuinely learning new stuff, not just about android apps, but software development in general!
+
