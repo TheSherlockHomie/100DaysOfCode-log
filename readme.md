@@ -175,7 +175,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Today's Progress**: 
 - Completed Ch 4 and Ch 5 of Udacity Android dev course!
-- Udacity ANdroid dev course is now 50% complete! 
+- Udacity Android dev course is now 50% complete! 
 
 **What I learned:** 
 - Activity and fragment lifecycle
@@ -202,3 +202,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 - Feel like I am genuinely learning new stuff, not just about android apps, but software development in general!
 
+------------
+
+### December 30, 2019, Monday
+
+- Getting in the holiday spirit! Will be back soon!
