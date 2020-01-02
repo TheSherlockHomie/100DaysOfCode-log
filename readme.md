@@ -207,3 +207,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 ### December 30, 2019, Monday
 
 - Getting in the holiday spirit! Will be back soon!
+
+----
+
+### Day 4: January 2, 2020, Thursday
+
+**Today's Progress**:
+
+- Implemented multithreading via coroutines!
+
+**What I learned:**
+
+- Job, Dispatcher and Scope
+
+- Suspend functions
+
+**Thoughts:**
+
+- Multithreading and coroutines are not as hard as I thought.
