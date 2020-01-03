@@ -225,3 +225,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 - Multithreading and coroutines are not as hard as I thought.
+
+----
+
+### Day 5: January 3, 2020, Friday
+
+**Today's Progress**:
+
+- Saw how apps are made in the wild
+
+**What I learned:**
+
+- Watched so many youtube videos about making android apps.
+
+- It was fun to see real devs' thought proccesses making apps and how they approach solutions.
+
+**Thoughts:**
+
+- Goofed off and watched lots of videos today. Did not actively make something, but still learnt a lot!
