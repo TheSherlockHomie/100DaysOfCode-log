@@ -243,3 +243,27 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 - Goofed off and watched lots of videos today. Did not actively make something, but still learnt a lot!
+
+----
+
+### Day 6: January 4, 2020, Saturday: The Switch to React Native
+
+**Today's Progress**:
+
+- Made some important descisons:
+
+- The project I want to build needs to be cross platform (maybe even a PWA version)
+
+- Learning native android _and_ swift along with implementing a web app seems very infeasible.
+
+- It's not too late (only 3 + 9 days into android native dev), plus I learnt deep workings of android's internal architechure for apps
+
+- So decided to switch to React Native; starting CS50's Mobile App Development with React Native on EdX
+
+**What I learned:**
+
+- Quick refresher on basic javascript
+
+**Thoughts:**
+
+- Yeah, yeah, sunk cost fallacy nad all that. I think it's best to do what's best.
