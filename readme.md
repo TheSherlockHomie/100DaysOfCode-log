@@ -266,4 +266,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts:**
 
-- Yeah, yeah, sunk cost fallacy nad all that. I think it's best to do what's best.
+- Yeah, yeah, sunk cost fallacy and all that. I think it's best to do what's best.
+
+----
+
+### Day 7: January 5, 2020, Sunday
+
+**What I learned:**
+
+- Closures in javascript
+
+**Thoughts:**
+
+- Busy day today. Still managed.
