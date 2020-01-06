@@ -279,3 +279,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 - Busy day today. Still managed.
+
+----
+
+### Day 8: January 6, 2020, Monday
+
+**Today's Progress**:
+
+- Almost completed lecture 1 on CS50x React NAtive course
+
+**What I learned:**
+
+- Closures
+
+- IIFEs
+
+- Asynchronous JS
+
+- Callbacks
+
+**Thoughts:**
+
+- I really like C++, and Kotlin is the best!
