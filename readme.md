@@ -301,3 +301,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 - I really like C++, and Kotlin is the best!
+
+----
+
+### Day 9: January 7, 2020, Tuesday
+
+**What I learned:**
+
+- Promises in js
+
+**Thoughts:**
+
+- Exhausting day
