@@ -286,7 +286,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Today's Progress**:
 
-- Almost completed lecture 1 on CS50x React NAtive course
+- Almost completed lecture 1 on CS50x React Native course
 
 **What I learned:**
 
@@ -313,3 +313,27 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 - Exhausting day
+
+----
+
+### Day 10: January 8, 2020, Wednesday
+
+**Today's Progress**:
+
+- Completed Lecture 1 (finally! whew)
+
+- Learnt a lot of new things. Never knew DOM manipulation was this fun!
+
+**What I learned:**
+
+- Promises (properly)
+
+- this in js
+
+- DOM manipulation (thanks Traversy Media!)
+
+**Thoughts:**
+
+- DOM manipulation is fun!
+
+----
