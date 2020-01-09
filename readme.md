@@ -337,3 +337,19 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 - DOM manipulation is fun!
 
 ----
+
+### Day 11: January 9, 2020, Thursday
+
+**Today's Progress**:
+
+- Started working on Project 0 of course
+
+**What I learned:**
+
+- Getting checkboxes to show up in CSS
+
+- createNewTextNode()
+
+**Thoughts:**
+
+- It has been a while, but I am glad to be back making things!
