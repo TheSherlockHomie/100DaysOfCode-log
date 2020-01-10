@@ -18,7 +18,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
-| 1  | A simple Android Dice Roller App | [Day 2](https://github.com/TheSherlockHomie/Android-Dice-Roller "Day 2")  |
+| 1  | A simple Android Dice Roller App | [Day -9](https://github.com/TheSherlockHomie/Android-Dice-Roller "Day -9")  |
+| 2  | A simple JS based (non persistent) TODO app | [Day 12](https://github.com/TheSherlockHomie/CS50x-react-project0 "Day 12")  |
 
 ----
 ----
@@ -342,7 +343,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Today's Progress**:
 
-- Started working on Project 0 of course
+- Started working on Project 0 of cs50-mobile
 
 **What I learned:**
 
@@ -353,3 +354,17 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 - It has been a while, but I am glad to be back making things!
+
+----
+
+### Day 12: January 10, 2020, Friday
+
+**Today's Progress**:
+
+- Completed project 0: A simple Js based TODO app!
+
+**Thoughts:**
+
+- Tinkering with and making stuff is always enjoyable.
+
+[JS based TODO app](https://github.com/TheSherlockHomie/CS50x-react-project0 "A simple JS based (non persistent) TODO app")
