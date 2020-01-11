@@ -368,3 +368,19 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 - Tinkering with and making stuff is always enjoyable.
 
 [JS based TODO app](https://github.com/TheSherlockHomie/CS50x-react-project0 "A simple JS based (non persistent) TODO app")
+
+----
+
+### Day 13: January 11, 2020, Saturday
+
+**Today's Progress:**
+
+- Started lecture 2 in CS50x
+
+**What I learned:**
+
+- classes in js
+
+- extends and super in js
+
+- Set data structure
