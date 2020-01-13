@@ -433,3 +433,11 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Props
 
 -   State
+
+---
+
+### Day 15: January 13, 2020, Monday
+
+**Today's Progress**:
+
+-   Learning React (cont.)
