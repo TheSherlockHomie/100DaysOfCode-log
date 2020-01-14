@@ -441,3 +441,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Today's Progress**:
 
 -   Learning React (cont.)
+
+---
+
+### Day 16: January 14, 2020, Tuesday
+
+**Today's Progress**:
+
+-   React stuff
+
+**Thoughts**:
+
+-   React is deep
