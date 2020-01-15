@@ -453,3 +453,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts**:
 
 -   React is deep
+
+---
+
+### Day 17: January 15, 2020, Wednesday
+
+**Today's Progress**:
+
+-   React
+
+**Thoughts**:
+
+-   Busy day today. Barely managed to make time.
