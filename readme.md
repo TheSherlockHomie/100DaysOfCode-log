@@ -474,6 +474,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   Completed lecture 2 of CS50m!
 
+-   Started new project, a react based todo app!
+
 **What I learned:**
 
 -   Impereative vs declaerative programming
