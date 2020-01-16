@@ -465,3 +465,19 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts**:
 
 -   Busy day today. Barely managed to make time.
+
+---
+
+### Day 18: January 16, 2020, Thursday
+
+**Today's Progress**:
+
+-   Completed lecture 2 of CS50m!
+
+**What I learned:**
+
+-   Impereative vs declaerative programming
+
+**Thoughts:**
+
+-   Took a long time, but we're finally here! React!
