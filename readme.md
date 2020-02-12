@@ -483,3 +483,19 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 -   Took a long time, but we're finally here! React!
+
+---
+
+### Day 19: February 12, 2020, Wednesday
+
+**Today's Progress**:
+
+-   Completed Unit 2 of Udacity's Intro to ML. Will do project.
+
+**What I learned:**
+
+-   Naive Bayes
+
+**Thoughts:**
+
+-   Started learning ML a few days back.
