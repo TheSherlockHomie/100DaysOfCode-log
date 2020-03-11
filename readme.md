@@ -499,3 +499,58 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 -   Started learning ML a few days back.
+
+---
+
+### Day 20: March 7, 2020, Saturday
+
+**Today's Progress**:
+
+-   Started new project in C++, a simple physics simulation of spheres!
+
+**What I learned:**
+
+-   Basics of C++ library, Cinder
+
+---
+
+### Day 21: March 8, 2020, Sunday
+
+**Today's Progress**:
+
+-   Continued work on CircleSim
+
+**What I did:**
+
+-   Bug fixes mostly. Implemented a few features.
+
+---
+
+### Day 22: March 9, 2020, Monday
+
+**Today's Progress**:
+
+-   Continued work on CircleSim
+-   Leetcode [TwoSum](https://leetcode.com/problems/two-sum/)
+
+**What I learned:**
+
+-   Hashmaps, what are they, and how they can be useful
+
+**Thoughts:**
+
+-   Happy Holi!
+
+---
+
+### Day 23: March 10, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Leetcode [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+**What I did:**
+
+-   Implemented a nice solution for the Leetcode problem. Read up on even better solutions.
+
+-   Identified a few bugs in CircleSim.
