@@ -554,3 +554,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Implemented a nice solution for the Leetcode problem. Read up on even better solutions.
 
 -   Identified a few bugs in CircleSim.
+
+---
+
+### Day 24: March 11, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Read up on Sets, Red Black Trees, Hashmaps
+-   Started reading Bjarne Stroustrup's Programming Principles and Practice using C++
+
+**What I did:**
+
+-   Completed Chapter 3
