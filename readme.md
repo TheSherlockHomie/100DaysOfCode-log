@@ -557,7 +557,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 24: March 11, 2020, Tuesday
+### Day 24: March 11, 2020, Wednesday
 
 **Today's Progress**:
 
@@ -567,3 +567,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **What I did:**
 
 -   Completed Chapter 3
+
+---
+
+### Day 25: March 12, 2020, Thursday
+
+**Today's Progress**:
+
+-   Continued working on CircleSim: squashed some bugs (which created new ones lol) and implemented better handling of time
+
+**What I did:**
+
+-   Implemented better handling of timeStep, also fixed issue where ball went out of window
