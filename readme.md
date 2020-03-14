@@ -568,6 +568,10 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   Completed Chapter 3
 
+**What I learned:**
+
+-   Universal and uniform initialization in C++ using { }
+
 ---
 
 ### Day 25: March 12, 2020, Thursday
@@ -579,3 +583,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **What I did:**
 
 -   Implemented better handling of timeStep, also fixed issue where ball went out of window
+
+---
+
+### Day 26: March 13, 2020, Friday
+
+**Today's Progress**:
+
+-   Leetcode [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+-   Leetcode [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+-   Leetcode [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+-   Started learning about Trees from mycodeschool
+
+-   Completed chapter 4, and started chapter 5 (Errors) of C++ book.
+
+**What I learned:**
+
+-   Sets and unordered sets in C++
+-   Basics of Dynamic Programming!
+-   Kadane's Algorithm for maximum subarray
