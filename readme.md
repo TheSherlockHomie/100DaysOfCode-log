@@ -603,3 +603,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Sets and unordered sets in C++
 -   Basics of Dynamic Programming!
 -   Kadane's Algorithm for maximum subarray
+
+---
+
+### Day 27: March 14, 2020, Saturday
+
+**Today's Progress**:
+
+-   Currently attending a Machine Learning Workshop!
+
+**What I learned:**
+
+-   Learnt how a complete ML Project works from beginning to end.
+-   Learnt about collecting, sorting data. Analysing it. Feature extraction, feature engineering.
+-   Learnt about many different Machine Learning Algorithms, and when to apply them.
+-   Learnt about and implemented KNN for a given dataset.
+-   Learnt about different ways of validating and checking results.
+
+**Thoughts:**
+
+-   Happy PI Day!
