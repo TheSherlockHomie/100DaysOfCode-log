@@ -623,3 +623,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts:**
 
 -   Happy PI Day!
+
+---
+
+### Day 28: March 15, 2020, Sunday
+
+**Today's Progress**:
+
+-   Day 2 (of 2) of Machine Learning Workshop
+
+**What I learned:**
+
+-   An overview of deep learning
+-   Learnt about ANNs
+-   Used an ANN model to predicty data!
+
+**Thoughts:**
+
+-   ML is not as difficult as I thought previously.
+-   Also, learnt about the difference between Ml and DL!
