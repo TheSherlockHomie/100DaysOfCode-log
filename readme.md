@@ -636,9 +636,33 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   An overview of deep learning
 -   Learnt about ANNs
--   Used an ANN model to predicty data!
+-   Used an ANN model to predicty outcomes (Big Mart Dataset)!
 
 **Thoughts:**
 
 -   ML is not as difficult as I thought previously.
 -   Also, learnt about the difference between Ml and DL!
+
+---
+
+Due to the nCoV-19 concerns, uni closed and I was temporarily not able to continue the challenge.
+
+---
+
+### Day 29: March 20, 2020, Friday
+
+**Today's Progress**:
+
+-   Looked at a lot of web development stuff
+-   Leetcode [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+**What I learned:**
+
+-   CSS Grid
+-   CSS Flexbox
+-   SVG as code
+-   lots of front end ux stuff
+
+**Thoughts:**
+
+-   Wanted to get a brief overview of web dev stuff before I decide to properly dive into it.
