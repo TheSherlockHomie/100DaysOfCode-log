@@ -666,3 +666,22 @@ Due to the nCoV-19 concerns, uni closed and I was temporarily not able to contin
 **Thoughts:**
 
 -   Wanted to get a brief overview of web dev stuff before I decide to properly dive into it.
+
+---
+
+### Day 30: March 21, 2020, Saturday
+
+**Today's Progress**:
+
+-   Made a simple Rock Paper Scissors webpage game!
+-   Leetcode [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+**What I learned:**
+
+-   SASS
+-   That watching tutorials nad how to do stuff is far easier than actually making the stuff, even simple things.
+-   Revised Binary Search
+
+**Thoughts:**
+
+-   Diving into web dev proper.
