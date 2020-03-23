@@ -685,3 +685,22 @@ Due to the nCoV-19 concerns, uni closed and I was temporarily not able to contin
 **Thoughts:**
 
 -   Diving into web dev proper.
+
+---
+
+### Day 31: March 22, 2020, Sunday
+
+**Today's Progress**:
+
+-   Learnt about testing in javascript using jasmine.
+-   Couldn't solve Leetcode [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/). Need to get help. Got a TLE.
+
+**What I learned:**
+
+-   Testing in js.
+-   Binary Search?
+
+**Thoughts:**
+
+-   Completing Odin Project exercises as fast as possible.
+-   Also, it was the first day of lockdown in India. We'll see.
