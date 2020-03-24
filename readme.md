@@ -704,3 +704,9 @@ Due to the nCoV-19 concerns, uni closed and I was temporarily not able to contin
 
 -   Completing Odin Project exercises as fast as possible.
 -   Also, it was the first day of lockdown in India. We'll see.
+
+---
+
+March 23, 2020: Taking a break for a day.
+
+---
