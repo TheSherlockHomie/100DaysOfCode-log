@@ -710,3 +710,14 @@ Due to the nCoV-19 concerns, uni closed and I was temporarily not able to contin
 March 23, 2020: Taking a break for a day.
 
 ---
+
+### Day 32: March 24, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Made a project in JS! Wes Bos's JavaScript Drum Kit!
+
+**What I learned:**
+
+-   Revised arrow functions
+-   Heroku
