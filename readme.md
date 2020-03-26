@@ -721,3 +721,9 @@ March 23, 2020: Taking a break for a day.
 
 -   Revised arrow functions
 -   Heroku
+
+---
+
+Started reading a book, that has me extremely engrossed. Might be out for a while.
+
+---
