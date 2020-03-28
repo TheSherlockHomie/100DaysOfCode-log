@@ -743,3 +743,27 @@ Started reading a book, that has me extremely engrossed. Might be out for a whil
 **Thoughts:**
 
 -   Will have to solve all the questions again. Learn all the missing concepts.
+
+---
+
+### Day 33: March 27, 2020, Friday
+
+**Today's Progress**:
+
+-   Had a competitive programming contest organised by the Association of Comuter Machinery (ACM), BIT Mesra chapter on hackerrank.
+-   The contest was fun. Learned lots. Was ranked 13 among 100+ participants.
+
+**What I learned:**
+
+-   Making pairs on maximum and 2nd maximum values in all possible subarrays of a list.
+-   Finding out LCM using GCD.
+
+**Thoughts:**
+
+-   Will have to solve all the questions again. Learn all the missing concepts.
+
+---
+
+Back to reading the book. It's along one (700 pages), but I am hooked.
+
+---
