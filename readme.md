@@ -767,3 +767,22 @@ Started reading a book, that has me extremely engrossed. Might be out for a whil
 Back to reading the book. It's along one (700 pages), but I am hooked.
 
 ---
+
+### Day 34: March 30, 2020, Monday
+
+**Today's Progress**:
+
+-   Watched some google kickstart solution videos on youtube. Also watched a couple of google phone interviews. Motivated me to invest time in competitive programming.
+-   Solved Leetcode [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+-   Solved Leetcode [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+-   Solved Leetcode [Two Sum](https://leetcode.com/problems/two-sum/) (again)
+-   Solved Leetcode [Maximum Subarray](https://leetcode.com/problems/two-sum/) (again)
+
+**What I learned:**
+
+-   Had forgotten about properly using linked lists. Helped lots.
+-   Merging two sorted linked lists.
+
+**Thoughts:**
+
+-   Having fun. It's like solving maths problems!
