@@ -786,3 +786,29 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Having fun. It's like solving maths problems!
+
+---
+
+### Day 35: March 31, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+-   Solved Leetcode [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (again)
+-   Solved Leetcode [Single Number](https://leetcode.com/problems/single-number/)
+-   Solved Leetcode [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+-   Solved Leetcode [Min Stack](https://leetcode.com/problems/min-stack/)
+-   Solved Leetcode [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+-   Solved Leetcode [Majority Element](https://leetcode.com/problems/majority-element/)
+
+**What I learned:**
+
+-   Braking down the climbing stair problem into a Fibonacci Sequence. Solving it using DP (very similar to Kadane's Algorithm)
+-   That XOR can tell us the unique number when all other numbers have a matching pair.
+-   That a tortoise and a hare can help tell if there is a cycle in a linked list
+-   How to find intersection in a two linked lists
+-   You can use votes (++ if present, -- if not) to find the majority element in a list.
+
+**Thoughts:**
+
+-   Solving lots of problems.
