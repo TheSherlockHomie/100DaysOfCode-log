@@ -812,3 +812,25 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Solving lots of problems.
+
+---
+
+### Day 36: April 1, 2020, Wednesday
+
+**Today's Progress**:
+
+-   Learnt about Trees and Binary Search Trees
+
+**What I learned:**
+
+-   Trees
+-   Height and calculating height of binary tree
+-   Implementing binary and binary search trees in C++
+-   How to insert and delete nodes in BST
+-   How to search for a value in BST
+-   Binary Tree traversal(BFS: level order; DFS: pre, in and post order)
+-   Checking if a Binary tree is a BST
+
+**Thoughts:**
+
+-   Wanted to learn about trees since when I was in class 11! Feels good to finally have the knowledge!
