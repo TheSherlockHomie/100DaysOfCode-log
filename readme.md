@@ -834,3 +834,33 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Wanted to learn about trees since when I was in class 11! Feels good to finally have the knowledge!
+
+---
+
+### Day 37: April 2, 2020, Thursday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+-   Solved Leetcode [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+-   Solved Leetcode [House Robber](https://leetcode.com/problems/house-robber/)
+-   Solved Leetcode [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+-   Solved Leetcode [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+-   Solved Leetcode [Single Number](https://leetcode.com/problems/single-number/) (again)
+-   Solved Leetcode [Happy Number](https://leetcode.com/problems/happy-number/)
+-   Solved Leetcode [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+-   Solved Leetcode [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+-   Solved Leetcode [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+-   Solved Leetcode [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+**What I learned:**
+
+-   How to check if a tree's nodes are mirrors of each other.
+-   Reversing a linked list
+-   Inverting a binary tree
+-   Efficient way of moving all copies of a certain element to the last in a list
+-   ios_base::sync_with_stdio(false)
+
+**Thoughts:**
+
+-   Even easy problems are difficult for me right now, but learning fast. Especially struggle with dynamic programming problems.
