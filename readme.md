@@ -864,3 +864,25 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Even easy problems are difficult for me right now, but learning fast. Especially struggle with dynamic programming problems.
+
+---
+
+### Day 38: April 3, 2020, Friday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+-   Solved Leetcode [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+-   Solved Leetcode [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+-   Solved Leetcode [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+**What I learned:**
+
+-   How to find shortest unsorted contigous subarray
+-   Merging two binary trees was pretty straightforward
+-   Using DP to find longest substring without repeating characters
+
+**Thoughts:**
+
+-   I still struggle with DP problems. Leetcode [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) really stumped me.
+-   Didn't solve many questions today. Was feeling lazy, did some chores instead.
