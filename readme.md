@@ -886,3 +886,27 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   I still struggle with DP problems. Leetcode [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) really stumped me.
 -   Didn't solve many questions today. Was feeling lazy, did some chores instead.
+
+---
+
+### Day 39: April 4, 2020, Saturday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (again)
+-   Couldn't solve Leetcode [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/). Need some help.
+-   Solved Leetcode [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+-   Solved Leetcode [Move Zeroes](https://leetcode.com/problems/move-zeroes/) (again)
+
+-   Participated in [Leetcode Biweekly Contest 23](https://leetcode.com/contest/biweekly-contest-23). Ranked 2421 out of 7025. Was able to solve 2/4 questions during the contest.
+
+-   Solved Leetcode [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+**What I learned:**
+
+-   Whenever you want to have 'k' nested loops, use recursion.
+-   If your code using chars is not working, make sure you used ' ' when writing that char in your code. Had me stumped for a stupidly long time.
+
+**Thoughts:**
+
+-   Solving CP problems and taking part in contests is fun. Also, particiapted in my first CP contest out of college.
