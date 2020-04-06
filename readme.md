@@ -910,3 +910,20 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Solving CP problems and taking part in contests is fun. Also, particiapted in my first CP contest out of college.
+
+---
+
+### Day 40: April 5, 2020, Sunday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+-   Participated in Leetcode [Weekly Contest 183](https://leetcode.com/contest/weekly-contest-183/). Ranked 5398 out of 12542. Was able to solve 2/4 questions during the contest.
+-   Participated in a contest help by ACM BIT Mesra on hackerrank. Was quite tough. Was able to solve only one question.
+
+**What I learned:**
+
+-   Two pointers, a fast one and a slow one are your friends.
+-   Pointers are _extremely_ finnicky. Need to be very careful when using them.
+-   Hashmaps can be subsituted to vectors when the keys are known and are in a limited range.
