@@ -920,10 +920,26 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Solved Leetcode [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 -   Participated in Leetcode [Weekly Contest 183](https://leetcode.com/contest/weekly-contest-183/). Ranked 5398 out of 12542. Was able to solve 2/4 questions during the contest.
--   Participated in a contest help by ACM BIT Mesra on hackerrank. Was quite tough. Was able to solve only one question.
+-   Participated in a contest held by ACM BIT Mesra on hackerrank. Was quite tough. Was able to solve only one question.
 
 **What I learned:**
 
 -   Two pointers, a fast one and a slow one are your friends.
 -   Pointers are _extremely_ finnicky. Need to be very careful when using them.
 -   Hashmaps can be subsituted to vectors when the keys are known and are in a limited range.
+
+---
+
+### Day 41: April 6, 2020, Monday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/contest/weekly-contest-183/problems/minimum-subsequence-in-non-increasing-order/)
+-   Solved Leetcode [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/contest/weekly-contest-183/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)
+-   Solved Leetcode [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+-   Solved Leetcode [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+**What I learned:**
+
+-   The peak and valley method
+-   Backtracking
