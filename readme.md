@@ -943,3 +943,15 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   The peak and valley method
 -   Backtracking
+
+---
+
+### Day 41: April 7, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Solved the problems I couldn't solve from the cometitions I participated on April 4 and April 5.
+
+**Thoughts:**
+
+-   Assignments from online classes are :(
