@@ -946,11 +946,11 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 ---
 
-### Day 41: April 7, 2020, Tuesday
+### Day 42: April 7, 2020, Tuesday
 
 **Today's Progress**:
 
--   Solved the problems I couldn't solve from the cometitions I participated on April 4 and April 5.
+-   Solved the problems I couldn't solve from the competitions I participated on April 4 and April 5.
 
 **Thoughts:**
 
