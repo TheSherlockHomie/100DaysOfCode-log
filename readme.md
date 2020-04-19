@@ -955,3 +955,11 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Assignments from online classes are :(
+
+---
+
+### Day 43: April 18, 2020, Saturday
+
+**Today's Progress**:
+
+-   Started new project: kMessage! It is a realtime chat app based on firebase realtime database.
