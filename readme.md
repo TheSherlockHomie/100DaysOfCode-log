@@ -963,3 +963,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Today's Progress**:
 
 -   Started new project: kMessage! It is a realtime chat app based on firebase realtime database.
+
+---
+
+### Day 44: April 19, 2020, Sunday
+
+**Today's Progress**:
+
+-   Continued progress on kMessage.
+-   Added features to upload photos.
