@@ -972,3 +972,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Continued progress on kMessage.
 -   Added features to upload photos.
+
+---
+
+### Day 45: April 20, 2020, Monday
+
+**Today's Progress**:
+
+-   Continued progress on kMessage.
+-   Made an activity for new message!
