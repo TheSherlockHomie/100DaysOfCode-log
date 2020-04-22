@@ -981,3 +981,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Continued progress on kMessage.
 -   Made an activity for new message!
+
+---
+
+### Day 46: April 21, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Continued progress on kMessage.
+-   Added an activity for chat log
