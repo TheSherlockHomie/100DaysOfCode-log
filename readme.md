@@ -990,3 +990,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Continued progress on kMessage.
 -   Added an activity for chat log
+
+---
+
+### Day 47: April 23, 2020, Thursday
+
+**Today's Progress**:
+
+-   Continued progress on kMessage.
+-   Fix a lot of bugs. Chatting now actually works
