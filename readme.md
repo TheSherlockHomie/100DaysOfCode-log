@@ -999,3 +999,19 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Continued progress on kMessage.
 -   Fix a lot of bugs. Chatting now actually works
+
+---
+
+### Day 48: May 13, 2020, Monday
+
+**Today's Progress**:
+
+-   Started the Algorithms course by Stanford on Coursera!
+-   Completed material for Week 1 of course [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome).
+-   Completed quiz for week 1. Unfortunately, you need to pay to submit answers :(
+
+**What I learned:**
+
+-   Merge sort and it's analysis
+-   Grade school multiplication algorithm and it's analysis
+-   Karatsuba Algorithm.
