@@ -1015,3 +1015,16 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Merge sort and it's analysis
 -   Grade school multiplication algorithm and it's analysis
 -   Karatsuba Algorithm.
+
+---
+
+### Day 49: May 18, 2020, Monday
+
+**Today's Progress**:
+
+-   Programmed Karatsuba Algorithm. Understood how it is derived.
+
+**What I learned:**
+
+-   Karatsuba Algorithm.
+-   stoi in C++
