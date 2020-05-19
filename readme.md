@@ -1002,7 +1002,7 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 ---
 
-### Day 48: May 13, 2020, Monday
+### Day 48: May 13, 2020, Wednesday
 
 **Today's Progress**:
 
@@ -1023,8 +1023,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Today's Progress**:
 
 -   Programmed Karatsuba Algorithm. Understood how it is derived.
+-   Completed Assignment 1 of Week 1. Couldn't submit to verify the answer, but independently verified it using Wolfram Alpha.
+-   Solved Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+-   Solved Leetcode Counting Elements
 
 **What I learned:**
 
 -   Karatsuba Algorithm.
 -   stoi in C++
+-   Divide and conquer approach for maximum subarray problem
