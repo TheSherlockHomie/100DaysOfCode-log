@@ -1032,3 +1032,28 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Karatsuba Algorithm.
 -   stoi in C++
 -   Divide and conquer approach for maximum subarray problem
+
+---
+
+### Day 50: May 19, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Completed (all the non-optional parts of) Chapter 3 of Course (Divide & Conquer Algorithms) (I'm currently halfway done through week 2).
+-   Solved Leetcode [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+-   Solved Leetcode [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+-   Solved Leetcode [To Lower Case](https://leetcode.com/problems/to-lower-case/)
+-   Solved Leetcode [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+-   Solved Leetcode [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+-   Solved Leetcode [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+-   Solved Leetcode [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
+-   Solved Leetcode [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+-   Solved Leetcode [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
+-   Solved Leetcode [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+-   Started work on a personal website!
+
+**What I learned:**
+
+-   Learnt about nlogn algorithm for counting array inversions (using divide and conquer).
+-   Learnt about Strassen's Matrix Multiplication Algorithm.
+-   C++ std::transform() function
