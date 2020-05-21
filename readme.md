@@ -1057,3 +1057,16 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Learnt about nlogn algorithm for counting array inversions (using divide and conquer).
 -   Learnt about Strassen's Matrix Multiplication Algorithm.
 -   C++ std::transform() function
+
+---
+
+### Day 51: May 20, 2020, Wednesday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+-   Solved Leetcode [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+-   Solved Leetcode [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+-   Solved Leetcode [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
+-   Solved Leetcode [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+-   Solved Leetcode [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
