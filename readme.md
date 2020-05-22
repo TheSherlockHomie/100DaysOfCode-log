@@ -1070,3 +1070,16 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Solved Leetcode [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 -   Solved Leetcode [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 -   Solved Leetcode [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+
+---
+
+### Day 52: May 21, 2020, Thursday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+-   Solved Leetcode [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+
+**What I learned:**
+
+-   Floyd's Tortoise & Hare Algorithm
