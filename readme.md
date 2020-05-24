@@ -1083,3 +1083,24 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **What I learned:**
 
 -   Floyd's Tortoise & Hare Algorithm
+
+---
+
+### Day 53: May 23, 2020, Saturday
+
+**Today's Progress**:
+
+-   Learned about graphs, and how they are represented in memory (finally, whew!)
+-   Registered in AtCoder Grand #044.Couldn't attempt even one single question. The 'grand' should have tipped me off to the contest's difficulty lol.
+-   Solved Leetcode [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+-   Solved Leetcode [Min Stack](https://leetcode.com/problems/min-stack/)
+-   Solved Leetcode [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+-   Solved Leetcode [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+
+
+    **What I learned:**
+
+-   Graphs, and how to represent them in memory (adjacency list, adjacency matrix)
+-   Min and max Heaps
+-   Heaps in C++ STL.
+-   Priority Queues
