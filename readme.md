@@ -1097,10 +1097,21 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Solved Leetcode [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 -   Solved Leetcode [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
-
     **What I learned:**
 
 -   Graphs, and how to represent them in memory (adjacency list, adjacency matrix)
 -   Min and max Heaps
 -   Heaps in C++ STL.
 -   Priority Queues
+
+---
+
+### Day 54: May 24, 2020, Sunday
+
+**Today's Progress**:
+
+-   Participated in CodeForces #644 Div 3. Started an hour late. Ranked 10800. Was able to solve 2 questions on time (A & B), and solved D after time was up(if only I didn't think to be fancy and used a straightforward solution).
+
+    **What I learned:**
+
+-   KISS (Keep It Simple, Stupid).
