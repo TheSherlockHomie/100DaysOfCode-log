@@ -1115,3 +1115,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
     **What I learned:**
 
 -   KISS (Keep It Simple, Stupid).
+
+---
+
+### Day 55: May 25, 2020, Monday
+
+**Today's Progress**:
+
+-   Solved Leetcode [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) (again)
+-   Solved Leetcode [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
