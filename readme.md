@@ -1124,3 +1124,13 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Solved Leetcode [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) (again)
 -   Solved Leetcode [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+
+---
+
+### Day 56: May 26, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Participated in CodeForces #645 Div 2.
+-   Was only able to solve two questions.
+-   Ranked 6213
