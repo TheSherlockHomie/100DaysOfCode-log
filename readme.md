@@ -1112,7 +1112,7 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Participated in CodeForces #644 Div 3. Started an hour late. Ranked 10800. Was able to solve 2 questions on time (A & B), and solved D after time was up(if only I didn't think to be fancy and used a straightforward solution).
 
-    **What I learned:**
+**What I learned:**
 
 -   KISS (Keep It Simple, Stupid).
 
@@ -1134,3 +1134,15 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Participated in CodeForces #645 Div 2.
 -   Was only able to solve two questions.
 -   Ranked 6213
+
+---
+
+### Day 57: May 27, 2020, Wednesday
+
+**Today's Progress**:
+
+-   Continued Coursera Algorithms course.
+
+**What I learned:**
+
+-   Master method and it's proof.
