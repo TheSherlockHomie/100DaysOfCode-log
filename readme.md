@@ -1146,3 +1146,13 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **What I learned:**
 
 -   Master method and it's proof.
+
+---
+
+### Day 58: May 28, 2020, Thursday
+
+**Today's Progress**:
+
+-   Participated in Educational Codeforces #88 Div 2.
+-   Was only able to solve 2 questions.
+-   Ranked 9783
