@@ -1156,3 +1156,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Participated in Educational Codeforces #88 Div 2.
 -   Was only able to solve 2 questions.
 -   Ranked 9783
+
+---
+
+### Day 59: May 29, 2020, Friday
+
+**Today's Progress**:
+
+-   Participated in MLH's Rookie Hacks Hackathon!
+-   It's a 3 day event till Sunday.
