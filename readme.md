@@ -1163,5 +1163,14 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 **Today's Progress**:
 
--   Participated in MLH's Rookie Hacks Hackathon!
+-   Participating in MLH's Rookie Hacks Hackathon!
 -   It's a 3 day event till Sunday.
+
+---
+
+### Day 60: May 30, 2020, Saturday
+
+**Today's Progress**:
+
+-   Making progress in Rookie Hacks.
+-   We have our project decided and a few mockups for the UI already made
