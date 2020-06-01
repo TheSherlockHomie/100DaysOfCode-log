@@ -1174,3 +1174,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Making progress in Rookie Hacks.
 -   We have our project decided and a few mockups for the UI already made
+
+---
+
+### Day 61: May 31, 2020, Sunday
+
+**Today's Progress**:
+
+-   Rookie Hacks ended,
+-   While we weren't able to complete our project, did have a lot of fun, and I made some new friends!
