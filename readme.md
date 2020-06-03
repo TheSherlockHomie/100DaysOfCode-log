@@ -1183,3 +1183,11 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Rookie Hacks ended,
 -   While we weren't able to complete our project, did have a lot of fun, and I made some new friends!
+
+---
+
+### Day 62: June 2, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Learned some algorithms, solved questions of my past codeforces contests.
