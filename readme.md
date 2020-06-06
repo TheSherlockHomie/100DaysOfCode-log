@@ -1191,3 +1191,17 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Today's Progress**:
 
 -   Learned some algorithms, solved questions of my past codeforces contests.
+
+---
+
+### Day 63: June 5, 2020, Friday
+
+**Today's Progress**:
+
+-   Started learning about backend stuff and how it works
+
+**What I learned:**
+
+-   HTTP requests
+-   node
+-   Express basics
