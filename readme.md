@@ -1205,3 +1205,18 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   HTTP requests
 -   node
 -   Express basics
+
+---
+
+### Day 64: June 6, 2020, Saturday
+
+**Today's Progress**:
+
+-   Learned about more backend stuff
+
+**What I learned:**
+
+-   Routing in Express
+-   Serving up dynamic pages
+-   how to make post requests
+-   APIs and how to make API requests
