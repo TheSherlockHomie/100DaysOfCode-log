@@ -1220,3 +1220,16 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Serving up dynamic pages
 -   how to make post requests
 -   APIs and how to make API requests
+
+---
+
+### Day 65: June 7, 2020, Sunday
+
+**Today's Progress**:
+
+-   Found a youtube channel that shows C++ stuff: [javdx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)!
+
+**What I learned:**
+
+-   Mostly watched lots of C++ videos.
+-   Stuff you should not do in C++
