@@ -1233,3 +1233,25 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Mostly watched lots of C++ videos.
 -   Stuff you should not do in C++
+
+---
+
+### Day 66: June 8, 2020, Monday
+
+**Today's Progress**:
+
+-   Learned about backend stuff
+-   Made my own api!
+-   Interact with mongoDB Atlas
+-   Extremely basic Vue
+
+**What I learned:**
+
+-   How to listen for different types of HTTP requests (GET/ POST/ DELETE/ etc) on a route
+-   How to connect to a mongoDB cluster in MongoDB Atlas, and retreive/ add/ delete information
+-   Send appropriate HTTP response with corrent HTTP code
+
+**Thoughts:**
+
+-   Actually excited to be learning actual stuff that can be seen on the web
+-   Lol @ a thoughts section after so long
