@@ -1255,3 +1255,21 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Actually excited to be learning actual stuff that can be seen on the web
 -   Lol @ a thoughts section after so long
+
+---
+
+### Day 67: June 9, 2020, Monday
+
+**Today's Progress**:
+
+-   Created the front end of my app with vue!
+-   Learnt some new things about Git too!
+
+**What I learned:**
+
+-   Learnt how to make api calls from the front end (using axios)
+-   How Vue components work
+-   Making dynamic webpages
+-   How to manage merge conflicts in git
+-   How to use git commit --amend
+-   How to fetch changes from an upstream repository
