@@ -1258,7 +1258,7 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 ---
 
-### Day 67: June 9, 2020, Monday
+### Day 67: June 9, 2020, Tuesday
 
 **Today's Progress**:
 
@@ -1272,4 +1272,22 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Making dynamic webpages
 -   How to manage merge conflicts in git
 -   How to use git commit --amend
--   How to fetch changes from an upstream repository
+
+---
+
+### Day 68: June 10, 2020, Wednesday
+
+**Today's Progress**:
+
+-   Learned some stuff about C++ linking
+-   Hid some secret API keys using environment variables!
+-   Spent a ton of time configuring the new Windows Terminal and WSL
+-   Installed zsh and pure, and now my terminal looks extremely snazzy
+-   Configured VS Code to work with WSL
+
+**What I learned:**
+
+-   How to fetch changes from an upstream repository, and merge the changes
+-   How compliling in C++ produces a .obj for every file, which the linker then combines into a single executable.
+-   Now finally know what a linker does!
+-   How environment variables can be used in node apps using dotenv and in Heroku
