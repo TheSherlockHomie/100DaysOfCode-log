@@ -1291,3 +1291,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   How compliling in C++ produces a .obj for every file, which the linker then combines into a single executable.
 -   Now finally know what a linker does!
 -   How environment variables can be used in node apps using dotenv and in Heroku
+
+---
+
+### Day 69: July 3, 2020, Friday
+
+**Today's Progress**:
+
+-   Started learning about Operating Systems (from Berkely's CS162 videos on YouTube)
+-   Started new project (which is kind of homework 0 of CS162) WordCount! It's a command line application in C++ which can count the number of words or the frequency of each word in a text file.
