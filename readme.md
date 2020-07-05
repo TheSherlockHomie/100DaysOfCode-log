@@ -1300,3 +1300,16 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Started learning about Operating Systems (from Berkely's CS162 videos on YouTube)
 -   Started new project (which is kind of homework 0 of CS162) WordCount! It's a command line application in C++ which can count the number of words or the frequency of each word in a text file.
+
+---
+
+### Day 70: July 4, 2020, Saturday
+
+**Today's Progress**:
+
+-   Worked on WordCount a bit
+
+**What I learned:**
+
+-   How to correctly handle command line arguments in C++
+-   Working with files in C++
