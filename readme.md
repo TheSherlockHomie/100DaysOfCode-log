@@ -1313,3 +1313,16 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   How to correctly handle command line arguments in C++
 -   Working with files in C++
+
+---
+
+### Day 71: July 5, 2020, Sunday
+
+**Today's Progress**:
+
+-   Worked on WordCount, almost completed it (small housekeeping remains)
+
+**What I learned:**
+
+-   How to teminate program from any function in C++ (using exit())
+-   How to get error description in C++ (using strerror_s and errorno)
