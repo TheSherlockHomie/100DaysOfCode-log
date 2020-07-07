@@ -1336,3 +1336,19 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Today's Progress**:
 
 -   Continued with Operating Systems, lecture 2 (the four fundamentals of operating systems)
+-   Since I couldn't find lecture 3 and 4 of CS162 (SP20), watched lecture 3 from SP15, Proccesses, Fork, IO, Files
+-   Also watched SP15 lecture 5: Concurrency: Processes and Threads
+
+**What I learned:**
+
+-   The refree, illusionist and glue model of OS
+-   Four fundamentals:
+-   Thread, Adress Space, Process, Dual Mode
+-   Process Control Block and Thread Control Block
+-   Address Space Translation
+-   Multithreaded Processes
+-   fork(), exec()c wait(), signal()
+-   Multiplexing threads/proccesses in time
+-   Lifecycle of a process
+-   Lifecycle of a thread
+-   Kernel Mode(L0) vs User Mode(L3)
