@@ -1326,3 +1326,13 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   How to teminate program from any function in C++ (using exit())
 -   How to get error description in C++ (using strerror_s and errorno)
+
+[WordCount](https://github.com/TheSherlockHomie/WordCount "A C++ command line app to count the number of words or the frequency of each word in a text file")
+
+---
+
+### Day 72: July 6, 2020, Monday
+
+**Today's Progress**:
+
+-   Continued with Operating Systems, lecture 2 (the four fundamentals of operating systems)
