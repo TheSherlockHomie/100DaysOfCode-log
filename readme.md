@@ -1352,3 +1352,28 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Lifecycle of a process
 -   Lifecycle of a thread
 -   Kernel Mode(L0) vs User Mode(L3)
+
+---
+
+### Day 73: July 7, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Received my first ever pull request! Verified and merged it!
+-   Watched lecture 6 from SP15: Cooperating threads and synchronisation
+
+**What I learned:**
+
+-   What merge as rebase does
+-   Fixing 3-way merge conflicts
+-   LF vs CRLF
+-   Signing commits using GPG keys
+-   Processes have threads and address spaces
+-   Concurrency by multiplexing in time
+-   Atomic operations
+-   Multithreaded applications must be insensitive to arbitrary interleavings
+-   Difference between multiproccessing, multiprogramming and multithreading.
+
+**Thoughts:**
+
+-   Lierally jumped with joy (for only a bit, not too long mind you) when I saw that I had received a pull request! Made my day!
