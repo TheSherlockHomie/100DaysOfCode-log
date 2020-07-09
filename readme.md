@@ -1377,3 +1377,33 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Lierally jumped with joy (for only a bit, not too long mind you) when I saw that I had received a pull request! Made my day!
+
+---
+
+### Day 74: July 8, 2020, Wednesday
+
+**Today's Progress**:
+
+-   Watched lecture 5 from SP20 of CS162: Concurrency and Mutual Excusion
+
+**What I learned:**
+
+-   Fork, Wait and Exec
+-   Yield
+-   ThreadFork vs ProcessFork
+-   Correctness for systems with concurrent threads
+-   Thread Pools
+-   Atomic Operations
+-   Synchronization: using atomic operations to ensure
+    cooperation between threads
+-   Mutual Exclusion: ensuring that only one thread does a
+    particular thing at a time
+-   Critical Section: piece of code that only one thread can
+    execute at once. Only one thread at a time will get into this
+    section of code
+-   Lock: prevents someone from doing something
+-   All synchronization involves waiting
+
+**Thoughts**
+
+-   Finally covered syllabus of Lectures 3 and 4 of SP20 by watching lectures of SP15. Now have access to all further videos of SP20!
