@@ -1407,3 +1407,23 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts**
 
 -   Finally covered syllabus of Lectures 3 and 4 of SP20 by watching lectures of SP15. Now have access to all further videos of SP20!
+
+---
+
+### Day 75: July 9, 2020, Thursday
+
+**Today's Progress**:
+
+-   Watched lecture 6 from SP20 of CS162: Sychronisation: Locks
+
+**What I learned:**
+
+-   How does a new thread start
+-   There can be many Kernel threads and many User threads, with one-to-one, one-to-many, many-to-one, and many-to-many user threads for kernel threads
+-   Locks
+-   Implementing locks via Read-Modify-Write Instructions (test & set, swap, compare & swap etc)
+
+**Thoughts**
+
+-   Had a massive internet upgrade! From 512 KiBps to 12.5 MiBps!
+-   Having so much fun getting to know about CS concepts as someone who is not studying (but wants to!) study CS
