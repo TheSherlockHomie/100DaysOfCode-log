@@ -1427,3 +1427,23 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Had a massive internet upgrade! From 512 KiBps to 12.5 MiBps!
 -   Having so much fun getting to know about CS concepts as someone who is not studying (but wants to!) study CS
+
+---
+
+### Day 76: July 10, 2020, Friday
+
+**Today's Progress**:
+
+-   Started Week 3 of Coursera's Algorithms Course!
+
+**What I learned:**
+
+-   Quick Sort and how it works
+-   Partitioning elements around a pivot in linear time
+-   Choosing a pivot and how it affects the running time
+-   How quich sort is O(n log n) in "average case"
+
+**Thoughts**
+
+-   Had heard about quick sort since I was in class 12, it was pretty great actually learning to cofde up (and understand) the algorith finally!
+-   I wonder why I didn't look it up before?
