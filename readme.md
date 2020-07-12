@@ -1447,3 +1447,29 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Had heard about quick sort since I was in class 12, it was pretty great actually learning to cofde up (and understand) the algorith finally!
 -   I wonder why I didn't look it up before?
+
+---
+
+### Day 77: July 11, 2020, Saturday
+
+**Today's Progress**:
+
+-   Watched lecture 7 of CS162: Semaphores, monitors and readers/writers
+-   Completed Week 3 of Coursera's Algorithms Course!
+
+**What I learned:**
+
+-   Busy waiting bad, sleep waiting good
+-   producer-consumer with bounded buffer, and how to solve it
+-   Semaphores, P() and V() operations
+-   How semaphores can be used for mutual exclusion, and scheduling
+-   mutexes
+-   Monitors: locks with condition variables
+-   Mesa vs Hoare monitors (while vs if)
+-   Readers/writers problem and solution using monitors
+-   Analysis of quick sort
+-   How it runs in n log n in average case (proof)
+
+**Thoughts**
+
+-   Lecture 7 was so long (2 hours), absolutely exhausted me. But on the up side, now I know about semaphores and monitors!
