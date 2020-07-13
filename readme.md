@@ -1445,7 +1445,7 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 **Thoughts**
 
--   Had heard about quick sort since I was in class 12, it was pretty great actually learning to cofde up (and understand) the algorith finally!
+-   Had heard about quick sort since I was in class 12, it was pretty great actually learning to code up (and understand) the algorithm finally!
 -   I wonder why I didn't look it up before?
 
 ---
@@ -1473,3 +1473,25 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts**
 
 -   Lecture 7 was so long (2 hours), absolutely exhausted me. But on the up side, now I know about semaphores and monitors!
+
+---
+
+### Day 78: July 12, 2020, Sunday
+
+**Today's Progress**:
+
+-   Coded up quick sort myself
+-   Finally realised a use case for having multiple projects in one single solution in Visual Studio. Makes so much sense!
+-   Couldn't find lecture 8 of SP20 of CS162, so to compensate, watched lectures 3 (from I/O onwards), 4 (I/O, Sockets and Networking) and 5 (Networking continued only)
+
+**What I learned:**
+
+-   (recalled) random number geration in C++ with random device, random engine and uniform distribution
+-   F10 for running code line-by-line while debugging in VS
+-   UNIX I/O concepts (byte oriented, single interface for all devices, buffering)
+-   How C's file API works
+-   Client-server models (using sockets)
+
+**Thoughts**
+
+-   It is annoying when I can't find lectures of SP20, although lectures SP15 are fine (I just like to watch the latest version, if only I could have studied this in person, Prof Kubi seems so great)
