@@ -1494,4 +1494,27 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 **Thoughts**
 
--   It is annoying when I can't find lectures of SP20, although lectures SP15 are fine (I just like to watch the latest version, if only I could have studied this in person, Prof Kubi seems so great)
+-   It is annoying when I can't find lectures of SP20, although lectures SP15 are fine (I just like to watch the latest version. If only I could have studied this in person, Prof Kubi seems so great)
+
+---
+
+### Day 79: July 13, 2020, Monday
+
+**Today's Progress**:
+
+-   Watched lecture 9 of CS162(SP20): Sockets, Networking(cont) & Scheduling
+
+**What I learned:**
+
+-   Life cycle of an I/O request
+-   Request response protocol
+-   Sockets over TCP/IP
+-   Scheduling!
+-   Why first come first serve can be bad
+-   Convoy effect
+-   Round robin scheduling
+-   Thrashing
+
+**Thoughts**
+
+-   Finally got to scheduling!
