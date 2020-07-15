@@ -1518,3 +1518,30 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts**
 
 -   Finally got to scheduling!
+
+---
+
+### Day 80: July 14, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Watched lecture 10 of CS162: Scheduling (cont)
+-   Started Week 4 (final week) of Stanford Algorithms!
+
+**What I learned:**
+
+-   Scheduling policies (maximise responsiveness/throughput etc)
+-   Scheduling fairness
+-   Lottery Scheduling
+-   Shortest Job First/Shortest Time to Completion First
+-   Shortest Reamining Time First (SRTF) (requires knowing the future)
+-   Multilevel Scheduling
+-   Linux Completely Fair Scheduler (CFS)
+-   Real Time Scheduling
+-   Earliest Deadline First
+-   Randomized Selection (and its proof)
+
+**Thoughts**
+
+-   CS162 is 50% complete! Only 14 more lectures remain! Hoping to complete the course by the end of this month!
+-   The Course 1 of Stanford's Algorithms Specialisation is in the final week! Soon to be over!
