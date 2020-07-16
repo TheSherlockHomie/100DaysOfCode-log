@@ -1545,3 +1545,26 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   CS162 is 50% complete! Only 14 more lectures remain! Hoping to complete the course by the end of this month!
 -   The Course 1 of Stanford's Algorithms Specialisation is in the final week! Soon to be over!
+
+---
+
+### Day 81: July 15, 2020, Wednesday
+
+**Today's Progress**:
+
+-   Watched lecture 11 of CS162: Scheduling(fin) and Deadlock
+-   Continued Week 4 of Algorithms
+-   Coded up graphs in the form of an adjacency matrix _and_ adjacency list
+
+**What I learned:**
+
+-   Starvation vs deadlock
+-   Four requirements for deadlock: Mutual exclusion, Hold and wait, No preemption, Circular wait
+-   Detecting deadlocks
+-   Preventing deadlock
+-   Banker's algorithm to avoid deadlock
+-   Priority donation to solve priority inversion
+-   Graphs
+-   Representing graphs via adjacency matrix & adjacency list
+-   std::vector.resize() in c++, and creating 2d matrices using vectors
+-   std::search() in c++
