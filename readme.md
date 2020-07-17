@@ -1568,3 +1568,22 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Representing graphs via adjacency matrix & adjacency list
 -   std::vector.resize() in c++, and creating 2d matrices using vectors
 -   std::search() in c++
+
+---
+
+### Day 82: July 16, 2020, Thursday
+
+**Today's Progress:**
+
+-   Watched lecture 12 of cs162: Address Translation & virtual memory
+
+**What I learned:**
+
+-   Adress spaces (and virtual address spaces)
+-   Memory multiplexing
+-   Segmentation in memory
+-   Segment Translation
+
+**Thoughts:**
+
+-   Was not able to accomplish much, but atleast completed the cs162 lecture for the day. No zero days, right?
