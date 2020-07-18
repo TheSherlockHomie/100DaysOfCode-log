@@ -1587,3 +1587,22 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Was not able to accomplish much, but atleast completed the cs162 lecture for the day. No zero days, right?
+
+---
+
+### Day 83: July 17, 2020, Friday
+
+**Today's Progress:**
+
+-   Watched lecture 13 of cs162: Address Translation (cont.), Caching and TLBs
+
+**What I learned:**
+
+-   Paging and page tables
+-   Two (and multi) level page tables
+-   Caching
+-   Look aside Buffer
+
+**Thoughts:**
+
+-   Again, no zero days
