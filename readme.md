@@ -1606,3 +1606,11 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Thoughts:**
 
 -   Again, no zero days
+
+---
+
+### Day 84: July 18, 2020, Saturday
+
+**Today's Progress:**
+
+-   Watched lecture 14 of cs162: Caching and TLB (finished), Demand Paging
