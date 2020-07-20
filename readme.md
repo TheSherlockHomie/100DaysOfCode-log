@@ -1614,3 +1614,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Today's Progress:**
 
 -   Watched lecture 14 of cs162: Caching and TLB (finished), Demand Paging
+
+---
+
+### Day 85: July 19, 2020, Sunday
+
+**Today's Progress:**
+
+-   Watched lecture 15 of cs162: Demand Paging
+-   Found the [CSES Problem Set](https://cses.fi/problemset/list/)! Started solving problems.
