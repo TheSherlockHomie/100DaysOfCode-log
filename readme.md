@@ -1623,3 +1623,11 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Watched lecture 15 of cs162: Demand Paging
 -   Found the [CSES Problem Set](https://cses.fi/problemset/list/)! Started solving problems.
+
+---
+
+### Day 86: July 20, 2020, Monday
+
+**Today's Progress:**
+
+-   Solved a couple of problems from the CSES Set.
