@@ -1631,3 +1631,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Today's Progress:**
 
 -   Solved a couple of problems from the CSES Set.
+
+---
+
+### Day 87: July 21, 2020, Tuesday
+
+**Today's Progress:**
+
+-   Solved problems for CSES.
+-   Participated in Codeforces #658. Ranked 8416.
