@@ -1638,5 +1638,13 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 **Today's Progress:**
 
--   Solved problems for CSES.
+-   Solved problems from CSES.
 -   Participated in Codeforces #658. Ranked 8416.
+
+---
+
+### Day 88: July 22, 2020, Wednesday
+
+**Today's Progress:**
+
+-   Solved a couple of problems from CSES.
