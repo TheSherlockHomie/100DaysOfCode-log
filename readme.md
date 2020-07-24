@@ -1648,3 +1648,12 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 **Today's Progress:**
 
 -   Solved a couple of problems from CSES.
+
+---
+
+### Day 89: July 23, 2020, Thursday
+
+**Thoughts:**
+
+-   Didn't do much coding. Taking a break.
+-   Had to setup an existing wifi router + modem in bridge mode to another router. Ended up learning a lot about DHCP servers doing this!
