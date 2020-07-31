@@ -1657,3 +1657,9 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Didn't do much coding. Taking a break.
 -   Had to setup an existing wifi router + modem in bridge mode to another router. Ended up learning a lot about DHCP servers doing this!
+
+---
+
+-   Took a break. However in the meantine, did keep checking Github, following programming, and even solved a few Leetcode questions.
+-   Also read (some) of the Competitive Programmer's Handbook
+-   Learned about C++ Tuple
