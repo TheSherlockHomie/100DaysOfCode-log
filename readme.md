@@ -1663,3 +1663,28 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Took a break. However in the meantine, did keep checking Github, following programming, and even solved a few Leetcode questions.
 -   Also read (some) of the Competitive Programmer's Handbook
 -   Learned about C++ Tuple
+
+---
+
+### Day 90: August 1, 2020, Saturday
+
+**Today's Progress:**
+
+-   [Ashish (Knighfury)](https://github.com/AshishKnightfury)'s birthday was coming up (August 2<sup>nd</sup>), so [Shivam (TREXXX27)](https://github.com/TREXXX27), [Piyush](https://www.instagram.com/the.lone_wolf_/) and I decided to host a CTF for his birthday (funny, I know)!
+-   Worked a lot on the repo for the CTF (as might be visible in my GitHub contribution matrix).
+-   Deployed the website to Heroku!
+-   Purchased a free domain (.cf) for the CTF website!
+
+**What I learned:**
+
+-   Making a basic backend (we didn't need much) using ExpressJS
+-   Encoding messages in DTMF
+-   Difference between A and CNAME records.
+
+**Thoughts:**
+
+-   Had lots (and lots) of fun making the website!
+-   The pair programming sessions with [Shivam](https://github.com/TREXXX27) were really great, and made me realise how fun it can be programming together.
+-   Didn't realise how long DNS propagation for a new domain can take. Anyways, figured it out eventually!
+
+(I won't be posting the repository nor the link to the CTF website because of the private nature of the inside jokes used in the site. So just trust that it exists.)
