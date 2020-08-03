@@ -1688,3 +1688,23 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Didn't realise how long DNS propagation for a new domain can take. Anyways, figured it out eventually!
 
 (I won't be posting the repository nor the link to the CTF website because of the private nature of the inside jokes used in the site. So just trust that it exists.)
+
+---
+
+### Day 91: August 2, 2020, Sunday
+
+**Today's Progress:**
+
+-   Worked really hard on completing the website. Finished it by 7 in the morning!
+-   It was [Ashish](https://github.com/AshishKnightfury)'s birthday today, so handed him the link for the CTF to solve (with lots of birthday wishes, of course!)
+
+**What I learned:**
+
+-   Hacking together a CTF website with two friends in 36 hours :D
+
+**Thoughts:**
+
+-   In the end, this was very similar to a hackathon. We worked pretty much non stop, and finished the website in literally just 36 hours.
+-   The website is a hack, sure, but I still am really proud of it :D
+-   Thanks [Shivam](https://github.com/TREXXX27), [Piyush](https://www.instagram.com/the.lone_wolf_/), and [Ashish](https://github.com/AshishKnightfury)! If you're reading this, then you should check them out, for sure!
+-   P.S. Happy Birthday Ashish! 🎂🎂
