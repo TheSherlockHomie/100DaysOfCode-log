@@ -1708,3 +1708,16 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   The website is a hack, sure, but I still am really proud of it :D
 -   Thanks [Shivam](https://github.com/TREXXX27), [Piyush](https://www.instagram.com/the.lone_wolf_/), and [Ashish](https://github.com/AshishKnightfury)! If you're reading this, then you should check them out, for sure!
 -   P.S. Happy Birthday Ashish! 🎂🎂
+
+---
+
+### Day 92: August 4, 2020, Tuesday
+
+**Today's Progress:**
+
+-   Revised Operating System concepts a bit, alongside [Shivam](https://github.com/TREXXX27).
+
+**Thoughts:**
+
+-   Took a break, pretty much. But slowly getting back into the groove.
+-   Didn't even realise I crossed 90 days already! Pretty great!
