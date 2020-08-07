@@ -1735,3 +1735,31 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Catching upto everything now. Slowly getting back into the groove.
 -   In other (big) news, [Malviya just started 100DaysofCode](https://github.com/TREXXX27/100-Days-Of-Code)! All the best! It's an amazing journey, learning so so much new stuff!
 -   P.S. Shivam has been appearing in my logs quite a bit during the last couple of days. 😂 It's cool seeing your friend get into coding. Especially great that I can show someone the ropes and get them started!
+
+---
+
+### Day 94: August 7, 2020, Friday
+
+**Today's Progress**:
+
+-   Learned that you can format stdout in C++ in a lot of ways :P
+-   Revised Leetcode [Single Number](https://leetcode.com/problems/single-number/)
+-   Revised Leetcode [Happy Number](https://leetcode.com/problems/happy-number/)
+-   Revised Leetcode [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+-   Revised Leetcode [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+-   Revised Leetcode [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+-   Revised Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+-   Revised Leetcode [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+-   Revised Leetcode [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+
+**What I learned:**
+
+-   RELEARNED a xor a = 0
+-   Instead of a costly hash table, can use an array for strings if the charset is known
+
+**Thoughts:**
+
+-   Mostly revised previous Leetcode problems
+-   Watching Errichto is pretty informative, even if you came up with a solution on your own
+-   `std::cout << std::hex << var` Will format the var as hex
+-   [Malviya just had his first day in 100 Days of Code!](https://github.com/TREXXX27/100-Days-Of-Code#day-1-august-07-2020-friday) Go check him out!
