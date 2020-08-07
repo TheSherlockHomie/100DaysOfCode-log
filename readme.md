@@ -1721,3 +1721,17 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 
 -   Took a break, pretty much. But slowly getting back into the groove.
 -   Didn't even realise I crossed 90 days already! Pretty great!
+
+---
+
+### Day 93: August 6, 2020, Thursday
+
+**Today's Progress:**
+
+-   Revised C++'s STL with [Malviya](https://github.com/TREXXX27)!
+
+**Thoughts:**
+
+-   Catching upto everything now. Slowly getting back into the groove.
+-   In other (big) news, [Malviya just started 100DaysofCode](https://github.com/TREXXX27/100-Days-Of-Code)! All the best! It's an amazing journey, learning so so much new stuff!
+-   P.S. Shivam has been appearing in my logs quite a bit during the last couple of days. 😂 It's cool seeing your friend get into coding. Especially great that I can show someone the ropes and get them started!
