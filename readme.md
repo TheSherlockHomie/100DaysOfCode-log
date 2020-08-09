@@ -1745,3 +1745,39 @@ Back to reading the book. It's along one (700 pages), but I am hooked.
 -   Watching Errichto is pretty informative, even if you came up with a solution on your own
 -   `std::cout << std::hex << var` Will format the var as hex
 -   [Malviya just had his first day in 100 Days of Code!](https://github.com/TREXXX27/100-Days-Of-Code#day-1-august-07-2020-friday) Go check him out!
+
+---
+
+### Day 95: August 8, 2020, Saturday
+
+**Today's Progress**:
+
+-   Revised Leetcode [Min Stack](https://leetcode.com/problems/min-stack/)
+-   Revised Leetcode [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+-   Revised Leetcode [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+-   Leetcode [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+-   Participated in [32<sup>nd</sup> LeetCode Biweekly Contest](https://leetcode.com/contest/biweekly-contest-32/). Was able to solve 3 out of 4 questions (yay!), and ranked 1309 out of 10463 participants.
+-   Leetcode [1539. Kth Missing Positive Number](https://leetcode.com/contest/biweekly-contest-32/problems/kth-missing-positive-number/)
+-   Leetcode [1540. Can Convert String in K Moves](https://leetcode.com/contest/biweekly-contest-32/problems/can-convert-string-in-k-moves/)
+
+**What I learned:**
+
+-   `SHIFT + ALT + DOWN ARROW` copies the current line to the next line in VSCode
+-   RECALLED
+
+```
+make_heap(hp.begin(), hp.end()); //heapify a container
+int a = hp.front(); pop_heap(hp.begin(), hp.end()); //pop from heap
+hp.push_back(x); push_heap(hp.begin(), hp.end()); //push into heap
+```
+
+-   Priority Queues in C++ (`priority_queue<int> pq;`)
+-   Prefix sums
+
+**Thoughts:**
+
+-   Leetcode Contigous Array was HARD. Took me a while to first learn about prefix sums and then understand all the concepts. Watching Errichto after learning prefix sums helped quite a lot.
+-   Participated in a Leetcode contest after quite a while. And for the first time ever, was able to solve 75% (3 of 4) questions! Would have solved the last one too, were it not for the time :P
+-   It was pretty great seeing that I was able to solve 3 questions (never was able to do it before). **Next goal:** all four of four questions!
+-   I guess having someone to do all of this competitive programming stuff together with you is pretty great. We even discussed the questions and our approaches after the contest. How cool is that! (Talking about @TREXXX27)
+-   Only 5 days left for my #100DaysofCode challenege to end. In a sense, I don't really want it to end, but we'll see. The countdown has begun, anyways.
