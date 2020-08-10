@@ -1780,4 +1780,22 @@ hp.push_back(x); push_heap(hp.begin(), hp.end()); //push into heap
 -   Participated in a Leetcode contest after quite a while. And for the first time ever, was able to solve 75% (3 of 4) questions! Would have solved the last one too, were it not for the time :P
 -   It was pretty great seeing that I was able to solve 3 questions (never was able to do it before). **Next goal:** all four of four questions!
 -   I guess having someone to do all of this competitive programming stuff together with you is pretty great. We even discussed the questions and our approaches after the contest. How cool is that! (Talking about @TREXXX27)
--   Only 5 days left for my #100DaysofCode challenege to end. In a sense, I don't really want it to end, but we'll see. The countdown has begun, anyways.
+-   Only 5 days left for my #100DaysofCode challenege. In a sense, I don't really want it to end, but we'll see. The countdown has begun, anyways.
+
+---
+
+### Day 96: August 9, 2020, Sunday
+
+**Today's Progress**:
+
+-   Participated in [LeetCode Weekly Contest 201](https://leetcode.com/contest/weekly-contest-201). Was able to solve only 2 out of 4 questions (womp womp); ranked 2775 out of 10002 participants.
+-   Revised Leetcode [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+-   Leetcode [1544. Make The String Great](https://leetcode.com/contest/weekly-contest-201/problems/make-the-string-great/)
+-   Leetcode [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/contest/weekly-contest-201/problems/find-kth-bit-in-nth-binary-string/)
+-   Leetcode [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/contest/weekly-contest-201/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)
+-   Read some Competitive Programmer's Handbook
+
+**Thoughts:**
+
+-   Leetcode 1546 was pretty interesting in the way prefix sums could be used.
+-   Was absolutely tired yesterday. Wanted to participate in the Codeforces contest, but I ended up asleep quite a bit before that.
