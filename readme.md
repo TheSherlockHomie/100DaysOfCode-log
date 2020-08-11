@@ -1799,3 +1799,30 @@ hp.push_back(x); push_heap(hp.begin(), hp.end()); //push into heap
 
 -   Leetcode 1546 was pretty interesting in the way prefix sums could be used.
 -   Was absolutely tired yesterday. Wanted to participate in the Codeforces contest, but I ended up asleep quite a bit before that.
+
+---
+
+### Day 97: August 10, 2020, Monday
+
+**Today's Progress**:
+
+-   Leetcode [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+-   Read about Graphs in the CPHB.
+
+**What I learned:**
+
+-   Revised Graph Representation (Adjacency Matrix and Adjacency List)
+-   Learnt about Edge List representation of graphs
+-   Graph Traversal!
+-   DFS and BFS in graphs
+-   Checking if graph is connected
+-   Finding distance between two nodes in a graph (not necessarily shortest path) (using BFS)
+-   Checking if graph has cycles (using DFS/BFS)
+-   Chacking if graph is bipartite
+-   About bipartite graphs
+
+**Thoughts:**
+
+-   Reading about graphs clears up so many things I wanted to know!
+-   Realised how similar DFS and BFS are for trees and graphs. Makes sense though. Trees are special cases of graphs, after all.
+-   Only 3 more days to go!
