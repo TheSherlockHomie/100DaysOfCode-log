@@ -1826,3 +1826,28 @@ hp.push_back(x); push_heap(hp.begin(), hp.end()); //push into heap
 -   Reading about graphs clears up so many things I wanted to know!
 -   Realised how similar DFS and BFS are for trees and graphs. Makes sense though. Trees are special cases of graphs, after all.
 -   Only 3 more days to go!
+
+---
+
+### Day 98: August 11, 2020, Tuesday
+
+**Today's Progress**:
+
+-   Implemented BFS traversal of graphs
+-   Implemented DFS traversal of graphs
+-   Leetcode [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+-   Finding shortest paths in graphs!
+-   Read more CPHB.
+
+**What I learned:**
+
+-   Generalising the idea of graph traversal to any sort of graph (adj matrix/ adj list/ 2d matrix etc)
+-   Detecting negative cycles in weighted graphs using Bellman-Ford Algorithm
+-   Finding shortest paths in graphs (with no negative cycles) using Bellman-Ford and Dijkstra's Algorithm.
+-   Finding shortest path in non-weighted graphs using BFS.
+
+**Thoughts:**
+
+-   Number of questions solved is low, but I feel that I am learning lots!
+-   Will catch up to the number of questions solved thing soon.
+-   Only two more days!
