@@ -1851,3 +1851,39 @@ hp.push_back(x); push_heap(hp.begin(), hp.end()); //push into heap
 -   Number of questions solved is low, but I feel that I am learning lots!
 -   Will catch up to the number of questions solved thing soon.
 -   Only two more days!
+
+---
+
+### Day 99: August 12, 2020, Wednesday :: _THE PENULTIMATE DAY_
+
+**Today's Progress**:
+
+-   Revised Leetcode [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+-   Watched [this video](https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo&index=2&t=0s) on Dynamic Programming. Learnt a lot about the standard problems.
+
+**What I learned:**
+
+-   Lots of standard DP problems
+-   How to approach DP problems in general
+-   Realised I know was solving the coin change problem all wrong (using the greedy approach).
+-   Learnt how the coin change problem can be solved using DP.
+-   Learnt about a very weird thing in C++
+
+```
+//Lets say you have an array of chars (a string), and a pointer p to that array
+while(*p != '\0')
+{
+    cout << ++*p++;
+}
+
+//this first post increments p
+//the initial value is then derefrenced (by *)
+//and then the dereferenced char value is incremented (a to b and so on)
+//which is then printed in stdout
+```
+
+Pretty sure the above is horrible in terms of best practices in C++, but well, the more you know?
+
+**Thoughts:**
+
+-   Couldn't do a lot of programming today, had (a lot of) personal obligations. Yet, it was a great day, thanks to some amazing friends of mine.
