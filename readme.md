@@ -1887,3 +1887,32 @@ Pretty sure the above is horrible in terms of best practices in C++, but well, t
 **Thoughts:**
 
 -   Couldn't do a lot of programming today, had (a lot of) personal obligations. Yet, it was a great day, thanks to some amazing friends of mine.
+
+---
+
+### Day 100: August 13, 2020, Wednesday
+
+**Progress**:
+
+-   Huge
+-   I went from not knowing how apps work, to actually coding apps from scratch for Android and the web!
+-   Learned about competitive programming!
+-   Picked up new languages!
+-   I know now how many different and unrelated programs run seamlessly on computers on top of operating systems.
+-   Went from using C99 style C++ to clean, modern C++ with STL
+-   Finally, graphs and trees aren't a mystery anymore! You won't get me confused mentioning DP either!
+-   Participated in my first hackathon!
+-   Even ended up making new friends!
+
+**What I learned:**
+
+-   Lots of stuff, the 2000 lines of text in this document has all.
+-   However, the biggest thing I learnt was that practice and steady continuous pace gives the best results. I learnt so much more when I was regular.
+
+**Thoughts:**
+
+-   Extremely glad I did this challenge. I was not able to stay regular, yes, which means that this is not exactly the 'proper' #100DaysOfCode, but still, these 100 (110 actually!) days are invaluable to me.
+-   The exposure to the dev community, and so many of the resources I got access to, is mind boggling. I found that devs are a most helpful bunch of people (which is not the first impression you get at all).
+-   This was a great experience, and I think it was a great habit logging down everything I did. So I think I'll be continuing with this tradition, and starting a Dev Log!
+-   And thanks to the reader, if you read all the way (or even partially), this slice of my life. Thanks for being a part of my dev journey.
+-   Special thanks to everyone who encouraged me throughout all of this, and kept me motivated/helped me out. You guys are the best (you know who you are)!
